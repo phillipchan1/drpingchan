@@ -150,7 +150,7 @@
                     <div class="address">
                         6032 Halsted <br />
                         Chicago, IL 60621 <br/>
-                        2:00PM-5:00PM
+                        2:00PM-4:00PM
                     </div>
                     <div class="number">
                         <a href="tel:821-0820">(773) 651-9393</a>
